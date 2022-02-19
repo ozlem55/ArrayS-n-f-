@@ -1,0 +1,16 @@
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ArraySınıfı.exe
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ArraySınıfı.deps.json
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ArraySınıfı.runtimeconfig.json
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ArraySınıfı.runtimeconfig.dev.json
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ArraySınıfı.dll
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ref\ArraySınıfı.dll
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\bin\Debug\net5.0\ArraySınıfı.pdb
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.csproj.AssemblyReference.cache
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.AssemblyInfoInputs.cache
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.AssemblyInfo.cs
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.csproj.CoreCompileInputs.cache
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.dll
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ref\ArraySınıfı.dll
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.pdb
+C:\Users\ozlem\source\repos\ArraySınıfı\ArraySınıfı\obj\Debug\net5.0\ArraySınıfı.genruntimeconfig.cache
